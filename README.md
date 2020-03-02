@@ -1,9 +1,9 @@
 **Simon-game**
 ==============
 
-Best Simon-game in the world...(my world)
+Best Simon-game in the world...(my world)__
 Have Fun, Test and Train your short term memory!
 
 
 
-html5, css3, javascript, jQuery
+Project built by HTML5, CSS3, JavaScript, jQuery
