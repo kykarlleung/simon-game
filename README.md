@@ -1,8 +1,8 @@
 **Simon-game**
 ==============
 
-Best Simon-game in the world...(my world)__
-Have Fun, Test and Train your short term memory!
+Best Simon-game in the world...(my world)<br />
+Have Fun, Test and Train your short term memory!<br /><br />
 
 
 
